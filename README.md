@@ -1,4 +1,4 @@
-# CCJ Newsletter Distributor
+# CCJ Newsletter Distributor w/ UI
 
 A JavaFX newsletter distribution application for loading subscriber lists, importing HTML email templates, generating previews, and sending newsletters to validated recipients.
 
@@ -122,6 +122,3 @@ Markdown-to-email generation
 Automatic article extraction
 
 One-click article-to-email conversion
-
-
-Current Release: Version 1.0
